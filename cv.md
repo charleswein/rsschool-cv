@@ -108,7 +108,7 @@ idInvalidCardCompanies(invalidCards);
    
   2. Teach Me Skills(Сertificate of completion | Minsk (2020)) - *"From my point of view this school gave me my first steps in my career as a front-end developer. I valued every lesson and especially practiсe that I got in the course. All our mentors were senior developers at different software development companies."*
 ### **Work Experience:**
-  1. State Hospital №40(General practitice | Minsk (2018-2020)) - *"While I worked I got plenty of skills, the most essential of them was give first aid in emergency situation.*
+  1. State Hospital №40(General practice | Minsk (2018-2020)) - *"While I worked I got plenty of skills, the most essential of them was give first aid in emergency situation.*
 ### **Additional Education at current time:**
   1. Codeacademy Full-Stack Web Developer Course.
   2. React - The Complete Guide (incl Hooks, React Router, Redux). *Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!* - by Maximilian Schwarzmüller
