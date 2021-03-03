@@ -1,2 +1,2 @@
 # rsschool-cv
-rssschool
+https://charleswein.github.io/rsschool-cv/cv
