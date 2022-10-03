@@ -1,4 +1,4 @@
-# rsschool-cv
+# RSSSCHOOL CV
 https://charleswein.github.io/rsschool-cv/cv
-# rsschool-htmv-cv
+# RSSSCHOOL CV HTML
 https://charleswein.github.io/rsschool-cv/
